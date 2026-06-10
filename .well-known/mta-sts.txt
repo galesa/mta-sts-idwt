@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: none
 mx: mail.industriasduero-warehouse-tents.com
 max_age: 2592000
